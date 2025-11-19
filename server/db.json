@@ -1,5 +1,33 @@
 {
-    "users": [],
-    "posts": [],
-    "banana": []
+  "users": [
+    {
+      "id": "bb66",
+      "firstname": "Mario",
+      "lastname": "Rossi"
+    },
+    {
+      "id": "670d",
+      "firstname": "Gino",
+      "lastname": "Verdi"
+    }
+  ],
+  "posts": [],
+  "banana": [],
+  "todos": [
+    {
+      "id": "35b2",
+      "text": "fare la spesa",
+      "done": false
+    },
+    {
+      "id": "1b7f",
+      "text": "comprare il pane",
+      "done": false
+    },
+    {
+      "id": "4af2",
+      "text": "studiare React",
+      "done": false
+    }
+  ]
 }
